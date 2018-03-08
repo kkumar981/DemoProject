@@ -16,6 +16,8 @@ public class MainTest {
 		
 		System.out.println("hi");
 		
+		System.out.println("Hello Master");
+		
 	
 }
 
