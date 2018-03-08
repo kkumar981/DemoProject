@@ -8,6 +8,8 @@ public class MainTest {
 		System.out.println("Master Text");
 		
 		System.out.println("Branch1 new Text");
+		System.out.println("Branch New Text");
+		
 	}
 
 }
