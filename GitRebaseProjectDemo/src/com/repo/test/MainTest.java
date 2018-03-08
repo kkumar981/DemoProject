@@ -12,13 +12,13 @@ public class MainTest {
 		
 		System.out.println("Masterchanges new added");
 		
+
 		System.out.println("New Text in branchone");
 		
 		System.out.println("hi");
 		
 		System.out.println("Hello Master");
-		
-	
+
 }
 
 }
