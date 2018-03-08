@@ -11,7 +11,8 @@ public class MainTest {
 		System.out.println("Branch New Text");
 		
 		System.out.println("Masterchanges new added");
-
+		
+		System.out.println("Hello Master");
 	}
 
 }
