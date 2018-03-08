@@ -8,6 +8,8 @@ public class MainTest {
 		System.out.println("Master branch adding1");	
 		System.out.println("Branch commits!!");
 		System.out.println("branch_one new text!!");
+		System.out.println("master brnch new text");
+	
 	}
 
 }
