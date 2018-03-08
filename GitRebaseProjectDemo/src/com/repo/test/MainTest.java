@@ -12,7 +12,7 @@ public class MainTest {
 		
 		System.out.println("Masterchanges new added");
 		
-		System.out.println("New Text in banchone");
+		System.out.println("New Text in branchone");
 		
 	}
 
