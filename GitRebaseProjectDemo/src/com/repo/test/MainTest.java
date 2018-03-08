@@ -7,6 +7,7 @@ public class MainTest {
 		System.out.println("Hello World");	
 		System.out.println("BranchOne!!");
 			System.out.println("Master!!");
+		System.out.println("Master22");
 }
 
 }
